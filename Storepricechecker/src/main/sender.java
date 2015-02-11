@@ -1,14 +1,12 @@
 package main;
 
 import java.util.Properties;
-/*
 import javax.mail.Message;
 import javax.mail.MessagingException;
 import javax.mail.Session;
 import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
-*/
 public class sender {
 	static final String FAKE_USERNAME = "productfinderdonotreply5@gmail.com";
 	static final String FAKE_PASSWORD = "ProductFinder#1";
@@ -18,7 +16,7 @@ public class sender {
 	}
 	
 	
-	/*
+	
 	
 	
 	
@@ -51,5 +49,5 @@ e.printStackTrace();
 return false;
 		}
 	}
-*/
+
 }
